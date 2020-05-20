@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(243, 243, 9);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 1em;
+    color: rgb(47, 29, 16);
+}
+#container{
+    padding-left: 3%;
+    padding-right: 5%;
+}
+#img {
+width: 5vw;
+padding-left: 30%;}
+#text{
+    float: right;
+    font-style: oblique;
+    line-height: -3em;
+}
+#text1 p{
+    float: left;
+    text-align: justify;
+    
+}
+#img1{
+    padding-left: 10%;
+    
+}
+.clear{ 
+    clear: both;
+}
